@@ -7,6 +7,8 @@
 make image && make run-example-in-container
 ```
 
+Read data from stdin: `cat ./sample.txt | ./main.py /dev/stdin`
+
 ## Options and flags
 
 ```
